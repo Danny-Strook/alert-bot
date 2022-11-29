@@ -1,1 +1,1 @@
-This telegram bot will send alerts via messages whenever crypto asset cross a range to the upside or downside.
+The script sends alerts via telegram messages whenever crypto asset cross selected range to upside or downside.
